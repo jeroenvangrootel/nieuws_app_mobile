@@ -79,6 +79,12 @@ nav a {
   margin-right: 5px;
 }
 
+footer {
+	border-top: lightgrey solid 1px;
+	padding-top: 2vh;
+	text-align: center;
+}
+
 .nav_link {
 	font-weight: bold;
 	text-transform: uppercase;}
