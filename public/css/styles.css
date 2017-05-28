@@ -1,0 +1,99 @@
+body {
+  font-family: helvetica;
+  width: 100%;
+  margin: 25px auto;
+  line-height: 1.4em;
+	background-color: #fff;
+}
+.logo_con {
+	width:50%;
+	margin:auto;
+}
+.logo {
+	width:100%;
+
+}
+
+#disqus_thread {
+	border-top: lightgrey solid 1px;
+	padding:0 5%;
+}
+
+section {
+  margin: 25px 0;
+	border-top: lightgrey solid 1px;
+}
+
+img {
+  max-width: 100%;
+}
+
+p {
+  margin: 10px 0;
+	padding:0 5%;
+}
+
+.datum {
+	font-weight:bold;
+	color:grey;
+}
+
+.item {
+	border-top: lightgrey solid 1px;
+}
+
+h2 {
+  margin: 25px 0;
+	font-size: 6vw;
+	font-weight: bold;
+	text-transform: uppercase;
+	line-height: 7.8vw;
+	padding:0 5%;
+	text-align: center;
+}
+
+
+h2 a {
+  display: inline-block;
+}
+
+a {color:black; text-decoration: none;
+	border-bottom: 1.5vw solid black;}
+
+
+a:hover {color:grey; 
+	border-bottom: 1.5vw solid grey;}
+
+
+h3 {
+  display: inline;
+}
+
+nav {
+  margin: 25px 0;
+	text-align: center;
+}
+
+nav a {
+  display: inline-block;
+  margin-right: 5px;
+}
+
+.nav_link {
+	font-weight: bold;
+	text-transform: uppercase;}
+
+.cat_link {
+	border:1vw solid black;
+	font-weight: bold;
+	padding: 1%;
+	margin: 1%;
+	}
+.cat_link:hover {
+	border:1vw solid grey;
+	font-weight: bold;
+	padding: 1%;
+	margin: 1%;}
+
+
+.item_frontpage img {width:100%;}
