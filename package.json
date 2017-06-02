@@ -1,7 +1,7 @@
 {
-  "name": "mobiel-nieuws-demo",
+  "name": "Museum-app",
   "version": "1.0.0",
-  "description": "Mobiele nieuwssite",
+  "description": "Museum App",
   "main": "app.js",
   "directories": {
     "test": "test"
@@ -16,7 +16,7 @@
     "node",
     "express"
   ],
-  "author": "Kristof Michiels",
+  "author": "Jeroen Van Grootel",
   "license": "ISC",
   "homepage": "",
   "dependencies": {

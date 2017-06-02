@@ -17,6 +17,10 @@ app.use(require("./routes/nieuws_router"));
 app.use(require("./routes/categorieen_router"));
 app.use(require("./routes/auteur_router"));
 
+app.get("/startpagina", function(req, res) {
+  res.render("startpagina");
+});
+
 app.listen(app.get('port'), function() {
   console.log('Node luistert op poort', app.get('port'));
 });
